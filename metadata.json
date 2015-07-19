@@ -1,0 +1,12 @@
+{
+  "name": "puppet-heroku",
+  "version": "0.0.1",
+  "author": "akerl",
+  "summary": "Install Heroku Toolbelt",
+  "license": "MIT",
+  "source": "https://github.com/halyard/puppet-heroku",
+  "project_page": "https://github.com/halyard/puppet-heroku",
+  "issues_url": "https://github.com/halyard/puppet-heroku/issues",
+  "dependencies": [
+  ]
+}
