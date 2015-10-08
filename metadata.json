@@ -1,0 +1,22 @@
+{
+  "name": "halyard-heroku",
+  "version": "0.1.0",
+  "author": "Les Aker",
+  "license": "MIT",
+  "summary": "Configure heroku via Boxen",
+  "source": "https://github.com/halyard/puppet-heroku",
+  "project_page": "https://github.com/halyard/puppet-heroku",
+  "issues_url": "https://github.com/halyard/puppet-heroku/issues",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Darwin",
+      "operatingsystemmajrelease": [
+        "14",
+        "15"
+      ]
+    }
+  ]
+}
